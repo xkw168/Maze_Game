@@ -1,0 +1,6 @@
+﻿  main.cpp
+  game_maze.cpp
+e:\game\maze\maze\maze\game_maze.cpp(19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  正在生成代码...
+  maze.vcxproj -> E:\game\Maze\maze\Debug\maze.exe
+  maze.vcxproj -> E:\game\Maze\maze\Debug\maze.pdb (Full PDB)
